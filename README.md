@@ -3,10 +3,10 @@
 - Java12新特性
 
 
-    1、switch表达式 使用-> 可以匹配
-    2、Shenandoah GC 低延迟GC ，Shenandoah 垃圾回收器的暂停时间与堆大小无关
-    3、JVM常量API 引入了ConstantDesc接口
-    3.1、String#describeConstable和resolveConstantDesc
+    1、switch表达式 使用-> 可以匹配<br>
+    2、Shenandoah GC 低延迟GC ，Shenandoah 垃圾回收器的暂停时间与堆大小无关<br>
+    3、JVM常量API 引入了ConstantDesc接口<br>
+    3.1、String#describeConstable和resolveConstantDesc<br>
     4 微基准测试套件
     5、只保留一个 AArch64 实现
     6、默认生成类数据共享(CDS)归档文件
