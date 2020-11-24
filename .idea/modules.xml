@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java12_13_14_15.iml" filepath="$PROJECT_DIR$/Java12_13_14_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java12/java12.iml" filepath="$PROJECT_DIR$/java12/java12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java13/java13.iml" filepath="$PROJECT_DIR$/java13/java13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java14/java14.iml" filepath="$PROJECT_DIR$/java14/java14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java15/java15.iml" filepath="$PROJECT_DIR$/java15/java15.iml" />
+    </modules>
+  </component>
+</project>
