@@ -26,9 +26,15 @@
 - Java14新特性
     
     
-    1、instanceof 表达式<br>
-    2、使用的NullPointerException的提示 <br>
-    3、Record语法<br>
+       1、instanceof 表达式<br>
+       2、使用的NullPointerException的提示 <br>
+       3、Record语法<br>
+       4、switch语法转正<br>
+       5、文本块儿增强\:取消换行操作  \s 空格<br>
+       6、垃圾收集器的更新<br>
+            ① 弃用ParallelScavenge和SerialOld GC组合<br>
+            ② 删除CMS垃圾回收器<br>
+            ③ ZGC 可以在macOS和Windows上使用<br>
 
 - Java15新特性
     
